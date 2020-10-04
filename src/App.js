@@ -8,7 +8,7 @@ return (
 <header className="App-header">
 <img src={logo} className="App-logo" alt="logo" />
 <p>
-Hi there : From Bolt of Bhojpur: The speedo ! I'm not DOG !
+Hi there : From Bolt of Bhojpur: The speedo ! I'm a farm DOG from Gurgaon!
 </p>
 <a
 className="App-link"
